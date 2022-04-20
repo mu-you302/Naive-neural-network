@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 
 class Sigmoid:
     """
-    隐层使用的simoid函数"""
+    隐层使用的sigmoid函数"""
 
     def __init__(self):
         self.y = None  # 保存sigmoid作用之后的输出
